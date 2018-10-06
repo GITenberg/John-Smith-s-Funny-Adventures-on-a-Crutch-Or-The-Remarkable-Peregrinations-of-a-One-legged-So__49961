@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'John Smith''s Funny Adventures on a Crutch
 
   Or The Remarkable Peregrinations of a One-legged Soldier after the War'
